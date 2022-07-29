@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"flag"
-	"github.com/certusone/solana_exporter/pkg/rpc"
+	"github.com/naei/solana-exporter/pkg/rpc"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"net/http"

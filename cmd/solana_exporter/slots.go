@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/certusone/solana_exporter/pkg/rpc"
+	"github.com/naei/solana-exporter/pkg/rpc"
 	"github.com/prometheus/client_golang/prometheus"
 	"k8s.io/klog/v2"
 	"time"
