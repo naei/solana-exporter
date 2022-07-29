@@ -1,4 +1,4 @@
-module github.com/certusone/solana_exporter
+module github.com/naei/solana-exporter
 
 go 1.13
 
